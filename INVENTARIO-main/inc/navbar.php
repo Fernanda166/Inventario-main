@@ -1,8 +1,8 @@
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbarhas-background-black-ter" role="navigation" aria-label="main navigation">
 
-    <div class="navbar-brand">
+    <div class="navbar-brand has-background-black-ter">
         <a class="navbar-item" href="index.php?vista=home">
-        <img src="./img/ouy.jpeg" width="60" height="20">
+        <img src="./img/ouy.png" width="60" height="20">
         </a>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">

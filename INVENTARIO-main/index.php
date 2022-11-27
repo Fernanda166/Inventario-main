@@ -4,7 +4,7 @@
     <head>
         <?php include "./inc/head.php"; ?>
     </head>
-    <body>
+    <body class="has-background-grey-darker">
         <?php
 
             if(!isset($_GET['vista']) || $_GET['vista']==""){
